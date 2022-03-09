@@ -1,6 +1,9 @@
 # Smart_Dary
 IOT Project implementing smart solutions for dary farm management
 
+System for automatic feeding and temperature control of barn by IOT devices. Web client to monitor and control tasks. Server hosted on NODE_MCU ESP 8266 Globally accessible via ngrok client
+
+
 ## NODE MCU ESP 8266
 
 seperate modules for 2 systems 
